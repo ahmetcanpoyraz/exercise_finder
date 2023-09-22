@@ -1,3 +1,10 @@
+Flutter version 3.14.0-0.1.pre
+Architecture Choice is MVVM
+
+
+https://github.com/ahmetcanpoyraz/exercise_finder/assets/86601813/098726eb-3a7f-4b3a-830a-46bc9ed8cd9a
+
+
 # exercise_finder
 
 "A new Flutter project."
